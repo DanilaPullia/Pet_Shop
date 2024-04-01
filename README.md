@@ -28,3 +28,6 @@ Allow users to change the quantity of each item.
 Update Database:
 after the user interect with the program by edit products etc.
 Finally update the quantity available to purchase in the database
+
+
+Create a simple HTLM file to show, just as example, the look that the website could have
