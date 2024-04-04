@@ -1,0 +1,32 @@
+
+body {
+    text-align: center;
+}
+     
+h1 {
+    color: green;
+}
+
+p, #Search {
+    text-align: left;
+}
+     
+h1 {
+    color: back(1, 20, 1, 0.977);
+}
+
+#Cart {
+    text-align: right;
+}
+            
+button {
+    text-align: left;
+}
+
+#Div {
+    text-align: right;
+}
+            
+#Div1 {
+    text-align: center;
+}
